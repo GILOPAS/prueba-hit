@@ -1,2 +1,1 @@
-# prueba-hit
-esta es una prueba del curso
+este proyecto es una prueba del curso
